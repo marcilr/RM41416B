@@ -1,0 +1,29 @@
+chenbro-RM41416B.txt
+Created Wed Feb 14 09:08:44 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Own 2 Chenbro RM41416B chassis
+
+
+RM41416B
+* 4U 16 Bays High Density Storage Server Chassis
+* ATX (12"x9.6"), CEB (12"x10.5"), Extended ATX (12" x 13") 
+* PS/2 or N+1 Redundant, Max Watt: 760 W
+* Mini-SAS, SATA II/SAS, SCSI 
+* 1x 5.25" bay for CD-ROM or Chenbro storage kit
+* 1x 3.5" bays for 3.5"/2.5" HDD or FDD
+* 1x internal 3.5"
+* 2x USB on front
+* rack: 17-3/4" wide (inner-edge to inner-edge)
+        22" deep (outside-edge to outsid-edge)
+
+
+http://www.chenbro.com/corporatesite/products_01features.php?serno=41
+
+
+
+Filelist
+========
+orders/complete/2008/20080514-storage-chenbro.txt
+
